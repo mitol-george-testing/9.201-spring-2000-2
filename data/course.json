@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "62fb6017-6afd-4c1d-95a2-66f739afd718"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Animal Behavior",
+  "course_description": "The course includes survey and special topics designed for graduate students in the brain and cognitive sciences. It emphasizes ethological studies of natural behavior patterns and their analysis in laboratory work, with contributions from field biology (mammology, primatology), sociobiology, and comparative psychology. It stresses mammalian behavior but also includes major contributions from studies of other vertebrates and of invertebrates. It covers some applications of animal-behavior knowledge to neuropsychology and behavioral pharmacology.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.201",
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
